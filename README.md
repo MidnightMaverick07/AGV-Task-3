@@ -144,17 +144,7 @@ The motion is driven by forces:
 
 ---
 
-## Output
 
-After simulation:
-- A grayscale map is generated  
-- Unknown → Gray  
-- Free space → White  
-- Obstacles → Black  
-
-The map is resized and displayed using OpenCV.
-
----
 
 ## Tech Stack
 
@@ -192,4 +182,3 @@ Subhojeet Ghosh
 
 ---
 
-If you found this useful, feel free to star the repo.
